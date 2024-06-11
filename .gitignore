@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/RestWithASPNETUdemy/RestWithASPNETUdemy/RestWithASPNETUdemy.http
+/RestWithASPNETUdemy/RestWithASPNETUdemy/obj/Debug/net8.0
+/RestWithASPNETUdemy

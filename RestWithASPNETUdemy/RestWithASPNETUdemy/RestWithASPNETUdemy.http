@@ -1,0 +1,6 @@
+@RestWithASPNETUdemy_HostAddress = https://localhost:7171
+
+GET {{RestWithASPNETUdemy_HostAddress}}/api/Calculator/sum/2/3/
+Accept: application/json
+
+###
